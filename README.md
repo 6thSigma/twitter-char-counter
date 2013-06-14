@@ -1,4 +1,4 @@
 twitter-char-counter
 ====================
 
-Javascript Character Counter, Twitter-Style
+Jquery Character Counter, Twitter-Style
