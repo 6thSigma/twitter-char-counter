@@ -1,4 +1,4 @@
-$(document).on('keyup keydown', '#YOUR-FORM-ID-HERE', function(e) {
+$(document).on('keyup keydown', '#YOUR-FIELD-ID-HERE', function(e) {
 	
   // Lengths
   var maxLen = 140;
