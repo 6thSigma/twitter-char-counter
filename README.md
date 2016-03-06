@@ -1,11 +1,11 @@
 twitter-char-counter
 ====================
 
-Count the number of characters in a field and give warnings when a user gets near a limit (like Twitter!).
+Count the number of characters in an input field and give warnings when a user gets near a limit (like Twitter!).
 
 ### Usage
 
-Place the ID of the form you would like to count in the char-count.js file in place of '#YOUR-FORM-ID-HERE'. Place the following in your HTML and customize with CSS as you will:
+Place the ID of the input field you would like to count in the char-count.js file in place of '#YOUR-FIELD-ID-HERE'. Place the following in your HTML and customize with CSS as you will:
 
     <div>Characters left: <span id="char-count">140</span></div>
     
